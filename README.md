@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 [Магистр Менеджмента]
 
 - ⚡ Skills:
-Программирование: Python, R, SQL
+Программирование: Python, SQL
 Анализ данных: Pandas, NumPy, Matplotlib
 Машинное обучение: scikit-learn, TensorFlow
 Визуализация данных: Tableau, Power BI
