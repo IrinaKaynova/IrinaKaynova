@@ -10,4 +10,6 @@
 IrinaKaynova/IrinaKaynova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+GET /badge/:badgeContent
 https://img.shields.io/badge/Best_games_for_me-Shess_and_squash-blue
