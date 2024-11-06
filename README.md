@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 - Опыт работы:
 
-Дата аналитик-аудитор, [Сбер](2015 - настоящее время)
+Дата аналитик-аудитор, [Сбер](2015 - июнь 2024)
 
 Формулирование и проверка гипотез для улучшения бизнес-процессов.
 Проверка кода, процессов и ML-моделей на соответствие требованиям и ожиданиям.
@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 - КУРС «АНАЛИТИКА ДАННЫХ B2B» karpov.courses 08.2024
 
 - ⚡ Skills:
-Программирование: Python, SQL
+Программирование: Python, SQL, A/B тесты
 Анализ данных: Pandas, NumPy, Matplotlib
 Машинное обучение: scikit-learn, TensorFlow
 Визуализация данных: Tableau, Power BI
